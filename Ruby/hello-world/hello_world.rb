@@ -3,4 +3,3 @@ class HelloWorld
     "Hello, World!"
   end
 end
-
